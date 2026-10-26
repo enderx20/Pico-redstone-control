@@ -8,7 +8,7 @@ import network
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
-wlan.connect("WiFi<Dom", "qnet1392ef")
+wlan.connect("your wifi name", "your password")
 
 
 while not wlan.isconnected():
