@@ -23,7 +23,7 @@ BRIGHTNESS = 1.0
 last_poll = time.ticks_ms()
 last_state = ""
 
-BASE = "http://192.168.12.62:9090"
+BASE = "your pc ip:9090"
 def led_off():
     for i in range(LED_COUNT):
         np[i] = 0,0,0
