@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "redstonecontrol",
+  "version": "${version}",
+  "name": "Redstone Control",
+  "description": "Simple mod to connect pico to Minecraft",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enderx.Redstonecontrol"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "redstonecontrol",
+  "version": "1.0.0",
+  "name": "RedstoneControl",
+  "description": "Naciska przyciski przy blokach Jigsaw przez HTTP.",
+  "authors": [],
+  "contact": {},
+  "license": "unlicense",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.enderx.Redstonecontrol"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "fabric-api": "*",
+    "minecraft": "26.3"
+  }
+}

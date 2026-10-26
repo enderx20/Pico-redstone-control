@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:stone_button": 2,
+      "minecraft:firework_rocket": 28
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 632,
+      "minecraft:time_since_rest": 8645,
+      "minecraft:inspect_dispenser": 1,
+      "minecraft:walk_one_cm": 3703,
+      "minecraft:total_world_time": 9159,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 44741,
+      "minecraft:crouch_one_cm": 242,
+      "minecraft:sneak_time": 224,
+      "minecraft:play_time": 8645,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 8645
+    },
+    "minecraft:used": {
+      "minecraft:waxed_copper_bulb": 1,
+      "minecraft:lime_concrete": 26,
+      "minecraft:stone_button": 3,
+      "minecraft:redstone": 10,
+      "minecraft:dispenser": 1,
+      "minecraft:tnt": 18,
+      "minecraft:jigsaw": 1
+    }
+  },
+  "DataVersion": 5023
+}

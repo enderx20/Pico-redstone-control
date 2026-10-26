@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 164,
+      "minecraft:time_since_rest": 686,
+      "minecraft:walk_one_cm": 517,
+      "minecraft:total_world_time": 1673,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 108,
+      "minecraft:sneak_time": 12,
+      "minecraft:play_time": 686,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 686
+    },
+    "minecraft:used": {
+      "minecraft:stone_button": 1,
+      "minecraft:redstone": 2,
+      "minecraft:jigsaw": 1
+    }
+  },
+  "DataVersion": 5023
+}

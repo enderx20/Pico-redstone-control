@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:waxed_copper_bulb": 7,
+      "minecraft:lime_concrete": 31,
+      "minecraft:stone_button": 10,
+      "minecraft:red_concrete": 16,
+      "minecraft:tnt": 7,
+      "minecraft:jigsaw": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5116,
+      "minecraft:walk_one_cm": 3116,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 10,
+      "minecraft:play_time": 5116,
+      "minecraft:jump": 42,
+      "minecraft:time_since_death": 5116,
+      "minecraft:sprint_one_cm": 189,
+      "minecraft:total_world_time": 13468,
+      "minecraft:fly_one_cm": 23109,
+      "minecraft:walk_on_water_one_cm": 317,
+      "minecraft:crouch_one_cm": 241,
+      "minecraft:sneak_time": 234
+    },
+    "minecraft:picked_up": {
+      "minecraft:stone_button": 6,
+      "minecraft:lime_concrete": 1,
+      "minecraft:sand": 32,
+      "minecraft:redstone": 1
+    }
+  },
+  "DataVersion": 5023
+}
